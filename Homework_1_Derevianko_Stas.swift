@@ -1,9 +1,3 @@
-//  main.swift
-//  homework_1_geekbrains
-//
-//  Created by user155176 on 6/19/19.
-//  Copyright © 2019 user155176. All rights reserved.
-//
 import Foundation;
 
 // Task 1.------------------------------------------------------------------------
