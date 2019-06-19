@@ -1,4 +1,3 @@
-//
 //  main.swift
 //  homework_1_geekbrains
 //
